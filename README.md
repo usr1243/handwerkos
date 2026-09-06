@@ -1,7 +1,7 @@
 # 🔧 HandwerkOS
 
-**Ein Backoffice aus KI-Agenten für Schweizer Handwerksbetriebe — ein Orchestrator liest jede Anfrage und gibt sie an den richtigen Spezialisten weiter. Nichts geht raus ohne Freigabe.**
-_An AI-agent back-office for Swiss trade businesses — an orchestrator reads every request and routes it to the right specialist. Nothing goes out without human approval._
+**Handwerksbetriebe ertrinken im Backoffice — Offerten, Termine, Rechnungen, Nachfass. HandwerkOS ist ein Backoffice aus KI-Agenten, das genau diese Aufgaben übernimmt: ein Orchestrator liest jede Anfrage und gibt sie an den richtigen Spezialisten weiter. Nichts geht raus ohne Freigabe.**
+_Trade businesses drown in back-office work — quotes, scheduling, invoices, follow-ups. HandwerkOS is an AI-agent back-office that takes over exactly these tasks: an orchestrator reads every request and routes it to the right specialist. Nothing goes out without human approval._
 
 > ℹ️ **Schaufenster / Showcase:** Live-Demo + Screenshots. Der Quellcode (Agenten-Prompts, Business-Logik) ist privat. / Live demo + screenshots; source code (agent prompts, business logic) is private.
 
